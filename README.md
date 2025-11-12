@@ -1,7 +1,5 @@
 # ComputerGraphics_2025Fall
 
-You Should Download Include & Lib Folder to Run the code.
-
 ## Assignment1: Waving Plane
 Naughty Waving Plane
 
