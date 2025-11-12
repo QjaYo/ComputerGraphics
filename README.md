@@ -2,8 +2,17 @@
 
 ## Assignment1: Waving Plane
 <img src="./image/WavingPlane.png" width="400">
-링크: https://github.com/QjaYo/ComputerGraphics-Assignment1.git
+Related Skills: 
+- Vertex/Fragment Shader
+- Sine, Cosine Function & Damping
+Link: https://github.com/QjaYo/ComputerGraphics-Assignment1.git
 
 ## Assignment2: Robot Arm (Chase Target)
 <img src="./image/RobotArm.png" width="400">
+- Rotation/Translation Matrix
+- Forward Kinematics / Inverse Kinematics
+- Iterative Method (Solving Complicated Non-Linear Equation)
+  - Local Search
+  - Gradient Descent
+    - Jacobian Matrix
 링크: https://github.com/QjaYo/ComputerGraphics-Assignment2.git
