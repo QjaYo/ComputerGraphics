@@ -12,12 +12,6 @@ Link: https://github.com/QjaYo/WavingPlane.git
 
 
 
-
-
-
-
-
-
 ## Project#2: Robot Arm
 
 <video src="https://github.com/user-attachments/assets/5dfa4bca-473f-45f6-ab72-1826351eac98" width="400" controls><\video>
@@ -34,6 +28,11 @@ Link: https://github.com/QjaYo/RobotArm.git
 
 
 
+## Project#3: Maze Navigator
 
+<video src="https://github.com/user-attachments/assets/85c6b659-3e57-45b0-929e-eef305fc8e80" width="400" controls></video>
 
-
+Related Skills:
+- Pathfinding (A* Algorithm)
+- Collision-aware Navigation
+- Camera System
