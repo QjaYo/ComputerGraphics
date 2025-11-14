@@ -8,7 +8,7 @@ Related Skills:
 - Vertex/Fragment Shader
 - Sine, Cosine Function & Damping
 
-Link: https://github.com/QjaYo/WavingPlane.git
+Link: [https://github.com/QjaYo/WavingPlane.git]
 
 
 
@@ -24,7 +24,7 @@ Related Skills:
   - Gradient Descent
     - Jacobian Matrix
 
-Link: https://github.com/QjaYo/RobotArm.git
+Link: [https://github.com/QjaYo/RobotArm.git]
 
 
 
@@ -36,3 +36,5 @@ Related Skills:
 - Pathfinding (A* Algorithm)
 - Collision-aware Navigation
 - Camera System
+
+Link: [https://github.com/QjaYo/Maze-Navigator.git]
