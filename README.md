@@ -49,10 +49,10 @@ Related Skills:
  
 ## Project#5 Ray-Tracing
 
-<video src="" width="400" controls><\video>
+<video src="https://github.com/user-attachments/assets/ea9d9bd6-7314-4e81-b158-2cb0a61582e3" width="400" controls><\video>
 
 Related Skills:
 - Environment Mapping
 - Ray-Tracing
 
-Link: [https://github.com/QjaYo/.obj-File-Reader.git]
+Link: [https://github.com/QjaYo/Ray-Tracing.git]
